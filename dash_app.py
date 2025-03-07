@@ -42,7 +42,8 @@ app.layout = html.Div(
         'width': '300px',
         'margin-bottom': '20px'
       },
-      id="region-selector"),
+      id="region-selector"
+    ),
     
     dcc.Graph(
       id='visualization',
