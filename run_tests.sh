@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Activate the virtual environment
-source venv\Scripts\activate
+# # Activate the virtual environment
+# source venv\Scripts\activate
 
 # Run the test suite
 pytest
